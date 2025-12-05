@@ -1,0 +1,11 @@
+flask
+boto3
+PyMuPDF
+openai
+python-dotenv
+requests
+mysql-connector-python
+python-dateutil
+langgraph
+langchain-openai
+langchain-core
